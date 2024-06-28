@@ -52,13 +52,11 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://th.bing.com/th/id/R.79397c9959948c605bb80482542ef08f?rik=ZtHgntcH3KNXKQ&riu=http%3a%2f%2fwww.arabnews.com%2fsites%2fdefault%2ffiles%2f2018%2f11%2f11%2f1365101-921132596.gif&ehk=zbYnAvizEuhZkHcUXmzstiMt8cYk6%2f8SzCmNTHucuEo%3d&risl=&pid=ImgRaw&r=0"  />
+  <img height="200" src="https://i.pinimg.com/originals/5b/68/bd/5b68bd4556027a4f85deb0b359caf682.gif"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=dhru007&theme=dark" alt="Layout with last medium posts"  />
-</div>
+
 
 ###
