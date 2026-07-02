@@ -84,14 +84,13 @@ ML-powered freight cost prediction and invoice anomaly detection app. Feature en
 </td>
 <td width="50%" valign="top">
 
-**🦺 [Safe-Eye — PPE Detection + Attendance](https://github.com/Dhru007)**
+**📉 [Churn Rate Prediction Model](https://github.com/Dhru007/Churn_Rate_Prediction)**
 <br/>
-Real-time computer vision pipeline for PPE compliance and face-recognition attendance. Integrated with Django REST API + MySQL, auto-alerting supervisors with worker ID and image evidence — ~80% drop in manual checks.
+Logistic Regression model trained on customer behavioural data with EDA, feature engineering, and hyperparameter tuning — improved simulated retention strategy effectiveness by ~20%.
 
-<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/EDA-FFB454?style=flat-square" />
 
 </td>
 </tr>
