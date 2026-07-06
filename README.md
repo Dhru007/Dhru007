@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Dhruv</h1>
+<h1 align="center">Hi 👋, I'm Dhruv</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=4FE0C1&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;RAG+%2B+LLM+Systems+Builder;AI+Email+Automation+%7C+Groq+%7C+ChromaDB;Computer+Vision+%7C+YOLOv8+%7C+OpenCV" alt="Typing SVG" />
@@ -133,4 +133,4 @@ Logistic Regression model trained on customer behavioural data with EDA, feature
   </a>
 </div>
 
-### -->
+### 
