@@ -98,16 +98,7 @@ Logistic Regression model trained on customer behavioural data with EDA, feature
 
 ###
 
-### 📊 GitHub stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhru007&show_icons=true&theme=dark&hide_border=true&bg_color=0A0C10&title_color=4FE0C1&icon_color=FFB454&text_color=E8ECF1" alt="Dhruv's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhru007&layout=compact&theme=dark&hide_border=true&bg_color=0A0C10&title_color=4FE0C1&text_color=E8ECF1" alt="Top languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhru007&theme=dark&hide_border=true&background=0A0C10&ring=4FE0C1&fire=FFB454&currStreakLabel=4FE0C1" alt="GitHub streak stats" />
-</p>
 
 ###
 
